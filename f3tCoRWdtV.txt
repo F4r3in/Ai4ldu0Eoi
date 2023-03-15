@@ -11,7 +11,6 @@ trojan://GQoWB0epIS@prs2.bamainjoorinabash.fun:2096?security=tls&sni=dl.bamainjo
 trojan://GQoWB0epIS@irc1.bamainjoorinabash.fun:2096?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=reddead&mode=gun#trojan-grpc%20%28Irancell%29
 trojan://GQoWB0epIS@irc2.bamainjoorinabash.fun:2096?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=reddead&mode=gun#trojan-grpc%20%28Irancell%29
 trojan://GQoWB0epIS@mci1.bamainjoorinabash.fun:2096?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=reddead&mode=gun#trojan-grpc%20%28MCI%29
-trojan://GQoWB0epIS@mci1.bamainjoorinabash.fun:2096?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=reddead&mode=gun#trojan-grpc%20%28MCI%29
 trojan://GQoWB0epIS@172.67.13.244:2096?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=reddead&mode=gun#trojan-grpc%20%28CF%29
 trojan://GQoWB0epIS@www.speedtest.net:2096?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=reddead&mode=gun#trojan-grpc%20%28CF%29
 trojan://cGRmPjdYlw@prs1.bamainjoorinabash.fun:2083?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=ws&host=dl.bamainjoorinabash.fun&path=reddead#trojan-ws%20%28ADSL%29
@@ -24,3 +23,7 @@ trojan://cGRmPjdYlw@172.67.13.244:2083?security=tls&sni=dl.bamainjoorinabash.fun
 trojan://cGRmPjdYlw@www.speedtest.net:2083?security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=ws&host=dl.bamainjoorinabash.fun&path=reddead#trojan-ws%20%28CF%29
 vless://edda3b2a-de65-4504-da8e-7af9e1db1599@pro.bamainjoorinabash.fun:55332?encryption=none&security=none&alpn=http%2F1.1&type=ws&host=alibaba.ir&path=%2F#vless-ws%20%28no%20cdn%29
 vless://435ecd3a-ec3d-4b6c-c693-1c1c17349e69@pro.bamainjoorinabash.fun:32601?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=ws&host=alibaba.ir&path=%2F#vless-ws%20%28no%20cdn%29
+vless://8be0a44b-ea85-4ab6-8a06-6b62253856c5@45.131.208.126:8443?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&type=ws&host=dl.bamainjoorinabash.fun&path=%2Freddead#vless-ws-341p88
+vless://8be0a44b-ea85-4ab6-8a06-6b62253856c5@104.31.16.3:8443?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&type=ws&host=dl.bamainjoorinabash.fun&path=%2Freddead#vless-ws-341p88
+vless://8be0a44b-ea85-4ab6-8a06-6b62253856c5@188.244.122.251:8443?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&type=ws&host=dl.bamainjoorinabash.fun&path=%2Freddead#vless-ws-341p88
+vless://8be0a44b-ea85-4ab6-8a06-6b62253856c5@185.201.139.248:8443?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&type=ws&host=dl.bamainjoorinabash.fun&path=%2Freddead#vless-ws-341p88
