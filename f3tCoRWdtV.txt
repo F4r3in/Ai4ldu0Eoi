@@ -13,3 +13,4 @@ vless://a83d8daf-7a79-4319-9151-0320f55f6077@mci.bamainjoorinabash.fun:2053?encr
 vless://a83d8daf-7a79-4319-9151-0320f55f6077@mcix.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCIx%29%20-%20d1
 vless://a83d8daf-7a79-4319-9151-0320f55f6077@irc.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRC%29%20-%20d1
 vless://a83d8daf-7a79-4319-9151-0320f55f6077@ircx.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRCx%29%20-%20d1
+vless://a83d8daf-7a79-4319-9151-0320f55f6077@104.24.209.67:2053?encryption=none&security=tls&sni=dl.bamainjoorinabash.fun&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28cleanip1%29%20-%20d1
