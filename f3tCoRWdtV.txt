@@ -37,3 +37,4 @@ vless://a9a49861-566a-4ccd-9608-da2834891515@ip4.bamainjoorinabash.fun:8880?encr
 vless://a9a49861-566a-4ccd-9608-da2834891515@ip5.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%205
 vless://a9a49861-566a-4ccd-9608-da2834891515@ip6.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%206
 vless://a9a49861-566a-4ccd-9608-da2834891515@isegaro.ddns.net:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#iSegaro
+vless://a9a49861-566a-4ccd-9608-da2834891515@8.uk-lianping.cf:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#LianPing
