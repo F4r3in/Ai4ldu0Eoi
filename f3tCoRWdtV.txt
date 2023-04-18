@@ -39,3 +39,4 @@ vless://a83d8daf-7a79-4319-9151-0320f55f6077@ircf.space:2053?encryption=none&sec
 vless://a9a49861-566a-4ccd-9608-da2834891515@ircf.space:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#Irancell
 vless://a83d8daf-7a79-4319-9151-0320f55f6077@ma7ta.online:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Irancell
 vless://a9a49861-566a-4ccd-9608-da2834891515@ma7ta.online:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#Irancell
+vless://a83d8daf-7a79-4319-9151-0320f55f6077@api.babaconfig.online:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Irancell%20%28Linux98%29
