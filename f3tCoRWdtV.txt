@@ -1,46 +1,176 @@
-vless://442f5791-b97a-400f-b3d0-244c167aef7e@snapp.ir:443?encryption=none&security=tls&sni=ar.drkenzotenma.site&alpn=h2%2Chttp%2F1.1&type=ws&host=ar.drkenzotenma.site&path=%2Fmonster#Arvan%20%28All%20operators%29%20-%20100GB%2Fmonth
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChJUkMpIC0gZDEiLA0KICAiYWRkIjogImlyYy5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjhhZThkYjA0LWI0NzktNDQxZC1kMzQ5LTk3ZGU3ZDY3ZWQ2NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwYXRoIjogIi9tb25zdGVyIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRsMi5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSINCn0=
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@irc.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRC%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@irc.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRC%29%20-%20d2
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ircn.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRCn%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@ircn.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRCn%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChJUkN4KSAtIGQxIiwNCiAgImFkZCI6ICJpcmN4LmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiOGFlOGRiMDQtYjQ3OS00NDFkLWQzNDktOTdkZTdkNjdlZDY0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkbDIuYmFtYWluam9vcmluYWJhc2guZnVuIiwNCiAgInBhdGgiOiAiL21vbnN0ZXIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ircx.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRCx%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@ircx.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28IRCx%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChNQ0kpIC0gZDEiLA0KICAiYWRkIjogIm1jaS5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjhhZThkYjA0LWI0NzktNDQxZC1kMzQ5LTk3ZGU3ZDY3ZWQ2NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwYXRoIjogIi9tb25zdGVyIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRsMi5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSINCn0=
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@mci.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCI%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@mci.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCI%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChNQ0luKSAtIGQxIiwNCiAgImFkZCI6ICJtY2luLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiOGFlOGRiMDQtYjQ3OS00NDFkLWQzNDktOTdkZTdkNjdlZDY0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkbDIuYmFtYWluam9vcmluYWJhc2guZnVuIiwNCiAgInBhdGgiOiAiL21vbnN0ZXIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@mcin.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCIn%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@mcin.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCIn%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChNQ0l4KSAtIGQxIiwNCiAgImFkZCI6ICJtY2l4LmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiOGFlOGRiMDQtYjQ3OS00NDFkLWQzNDktOTdkZTdkNjdlZDY0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkbDIuYmFtYWluam9vcmluYWJhc2guZnVuIiwNCiAgInBhdGgiOiAiL21vbnN0ZXIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@mcix.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCIx%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@mcix.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MCIx%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChNS0gpIC0gZDEiLA0KICAiYWRkIjogIm1raC5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjhhZThkYjA0LWI0NzktNDQxZC1kMzQ5LTk3ZGU3ZDY3ZWQ2NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwYXRoIjogIi9tb25zdGVyIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRsMi5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSINCn0=
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@mkh.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MKH%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@mkh.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MKH%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChNS0h4KSAtIGQxIiwNCiAgImFkZCI6ICJta2h4LmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiOGFlOGRiMDQtYjQ3OS00NDFkLWQzNDktOTdkZTdkNjdlZDY0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkbDIuYmFtYWluam9vcmluYWJhc2guZnVuIiwNCiAgInBhdGgiOiAiL21vbnN0ZXIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@mkhx.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MKHx%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@mkhx.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28MKHx%29%20-%20d2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNmIChQUlMpIC0gZDEiLA0KICAiYWRkIjogInBycy5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjhhZThkYjA0LWI0NzktNDQxZC1kMzQ5LTk3ZGU3ZDY3ZWQ2NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGwyLmJhbWFpbmpvb3JpbmFiYXNoLmZ1biIsDQogICJwYXRoIjogIi9tb25zdGVyIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRsMi5iYW1haW5qb29yaW5hYmFzaC5mdW4iLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSINCn0=
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@prs.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28PRS%29%20-%20d1
-vless://bbde2aa5-ecb3-43f6-85fe-982bfa2f4494@prs.cf.drkenzotenma.site:2083?encryption=none&security=tls&sni=de.cf.drkenzotenma.site&alpn=http%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Cf%20%28PRS%29%20-%20d2
-vless://a9a49861-566a-4ccd-9608-da2834891515@ip1.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%201
-vless://a9a49861-566a-4ccd-9608-da2834891515@ip2.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%202
-vless://a9a49861-566a-4ccd-9608-da2834891515@ip3.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%203
-vless://a9a49861-566a-4ccd-9608-da2834891515@ip4.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%204
-vless://a9a49861-566a-4ccd-9608-da2834891515@ip5.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%205
-vless://a9a49861-566a-4ccd-9608-da2834891515@ip6.bamainjoorinabash.fun:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#clean%20ip%206
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ip7.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#clean%20ip%207%20%28irancell%29
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ip8.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#clean%20ip%208%20%28irancell%29
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ip9.bamainjoorinabash.fun:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#clean%20ip%209%20%28irancell%29
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@fastynet.cloud:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Irancell
-vless://a9a49861-566a-4ccd-9608-da2834891515@fastynet.cloud:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#Irancell
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ircf.space:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Irancell
-vless://a9a49861-566a-4ccd-9608-da2834891515@ircf.space:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#Irancell
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@ma7ta.online:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Irancell
-vless://a9a49861-566a-4ccd-9608-da2834891515@ma7ta.online:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#Irancell
-vless://a9a49861-566a-4ccd-9608-da2834891515@www.speedtest.net:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#Irancell
-vless://a83d8daf-7a79-4319-9151-0320f55f6077@api.babaconfig.online:2053?encryption=none&security=tls&sni=dl2.bamainjoorinabash.fun&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%2Fmonster&mode=gun#Irancell%20%28Linux98%29
-vless://a9a49861-566a-4ccd-9608-da2834891515@isegaro.ddns.net:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#iSegaro
-vless://a9a49861-566a-4ccd-9608-da2834891515@8.uk-lianping.cf:8880?encryption=none&security=none&type=ws&host=dl2.bamainjoorinabash.fun&path=%2Fmonster#LianPing
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ircfips.leonardoda-vinci.ir",
+            "port": 443,
+            "users": [
+              {
+                "id": "4076c06a-2b66-4c7d-9b1d-361dbe435306",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "rHRKeVBzlZhvkz5PLQ43okmrmx9gPUv3B9AmB1dVX9vwQx0NAPd6ybYDzrFWddd.cLOuD",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/dvx9vwqx0napd",
+          "headers": {
+            "Host": "rHRKeVBzlZhvkz5PLQ43okmrmx9gPUv3B9AmB1dVX9vwQx0NAPd6ybYDzrFWddd.cLOuD"
+          }
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "mark": 255,
+          "tcpNoDelay": true
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": "reject"
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "tlshello",
+          "length": "10-20",
+          "interval": "1-2"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5465425548310166497",
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:ir",
+          "geosite:cn"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5425034033205580637",
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn",
+          "geoip:ir"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5627785659655799759",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}
