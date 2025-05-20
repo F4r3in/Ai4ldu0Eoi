@@ -9,7 +9,7 @@
       {
         "address": "8.8.8.8",
         "domains": [
-          "full:cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "full:restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "full:www.speedtest.net"
         ],
         "skipFallback": true
@@ -72,11 +72,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+            "address": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
             "port": 443,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -88,15 +88,14 @@
         "network": "ws",
         "security": "tls",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/EokmvLucE6L3F6Xp?ed=2560"
+          "path": "/bx740IxwBy5T60Me?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -105,7 +104,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "CooL-Fire-4588.DL2-TaBRiZUACBLoGir.woRkeRS.DeV"
+          "serverName": "rEstLEsS-RAin-7766.DL-tAbrIZuaCBLoGIr.worKERs.DeV"
         }
       },
       "tag": "prox-1"
@@ -119,7 +118,7 @@
             "port": 443,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -131,15 +130,14 @@
         "network": "ws",
         "security": "tls",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/sa2nZQDAjV2HFOD8?ed=2560"
+          "path": "/qcBHCuIjce5BiLRe?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -148,7 +146,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "COOl-FirE-4588.DL2-tAbRIzUACBlOGIr.woRKErS.dEv"
+          "serverName": "rEstlesS-rAIN-7766.dL-tabRIzuACBLOGiR.wOrkeRS.dEv"
         }
       },
       "tag": "prox-2"
@@ -158,11 +156,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.177.95",
+            "address": "188.114.97.0",
             "port": 443,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -174,15 +172,14 @@
         "network": "ws",
         "security": "tls",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/69xf9GLy47dOwSVD?ed=2560"
+          "path": "/ZcQm5vpOFCmSWTMo?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -191,7 +188,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "CoOl-firE-4588.DL2-tAbrIzUAcBLOGir.WoRkeRS.dev"
+          "serverName": "REsTLEsS-RaIN-7766.dL-TABRizUacBLoGir.woRKeRS.Dev"
         }
       },
       "tag": "prox-3"
@@ -201,11 +198,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.56.44",
+            "address": "188.114.96.0",
             "port": 443,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -217,15 +214,14 @@
         "network": "ws",
         "security": "tls",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/0YarX21tb3b8d2Ie?ed=2560"
+          "path": "/qsUo0MFfxQFEyf8L?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -234,7 +230,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "COoL-fiRE-4588.dL2-TABrizuAcbLOGIr.WORKErS.DEV"
+          "serverName": "RestLeSs-rain-7766.dl-TaBRiZUaCBlogIR.wOrkErS.dEV"
         }
       },
       "tag": "prox-4"
@@ -244,11 +240,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+            "address": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
             "port": 80,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -260,15 +256,14 @@
         "network": "ws",
         "security": "none",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/d1o0qnotJrYLmlk3?ed=2560"
+          "path": "/FOurDGU4ZPIObzHk?ed=2560"
         }
       },
       "tag": "prox-5"
@@ -282,7 +277,7 @@
             "port": 80,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -294,15 +289,14 @@
         "network": "ws",
         "security": "none",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/72d3tjdgfDFTZrPt?ed=2560"
+          "path": "/BqBkZIVIPYScJ6Ic?ed=2560"
         }
       },
       "tag": "prox-6"
@@ -312,11 +306,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.177.95",
+            "address": "188.114.97.0",
             "port": 80,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -328,15 +322,14 @@
         "network": "ws",
         "security": "none",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/yMfox2Ly5ck8YyMg?ed=2560"
+          "path": "/VGrZaHtDIcllT7OP?ed=2560"
         }
       },
       "tag": "prox-7"
@@ -346,11 +339,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.56.44",
+            "address": "188.114.96.0",
             "port": 80,
             "users": [
               {
-                "id": "bdc2eeb8-a8d9-42ac-a536-fa6e4909e724",
+                "id": "ba16be6f-0cd9-4f49-a030-cd59f61ff2c6",
                 "encryption": "none",
                 "level": 8
               }
@@ -362,15 +355,14 @@
         "network": "ws",
         "security": "none",
         "sockopt": {
-          "tcpKeepAliveIdle": 30,
           "domainStrategy": "UseIPv4"
         },
         "wsSettings": {
-          "host": "cool-fire-4588.dl2-tabrizuacblogir.workers.dev",
+          "host": "restless-rain-7766.dl-tabrizuacblogir.workers.dev",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/P7D4Op1Aa6R3M4Sy?ed=2560"
+          "path": "/yqp8drnN2N5b4Oyp?ed=2560"
         }
       },
       "tag": "prox-8"
@@ -431,20 +423,21 @@
         "type": "field"
       },
       {
-        "ip": [
-          "8.8.8.8"
+        "inboundTag": [
+          "dns"
         ],
-        "port": "443",
-        "balancerTag": "all",
-        "type": "field"
-      },
-      {
         "ip": [
           "8.8.8.8"
         ],
         "port": "53",
-        "network": "udp",
         "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "dns"
+        ],
+        "balancerTag": "all",
         "type": "field"
       },
       {
