@@ -1,5 +1,5 @@
 {
-  "remarks": "Backup",
+  "remarks": "backup",
   "log": {
     "loglevel": "warning"
   },
@@ -95,7 +95,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/aCojCnjPmGAxG7gY?ed=2560"
+          "path": "/jN1CSp6Ttua1dWyX?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -104,7 +104,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "BROAd-fOrest-7B44.dL3-TABrIZUaCBlOGIR.wORkerS.deV"
+          "serverName": "broaD-Forest-7B44.DL3-TABrIZUACBlOGir.wOrKErs.dev"
         }
       },
       "tag": "prox-1"
@@ -137,7 +137,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/u50vBQjPHopmaAgL?ed=2560"
+          "path": "/dA6S9jpoluEH34ij?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -146,7 +146,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "bROaD-FOResT-7B44.Dl3-TABRiZUaCBlOGIr.wOrKErs.Dev"
+          "serverName": "Broad-FOresT-7B44.DL3-TabRIZuaCblOgIr.WORkErS.DEV"
         }
       },
       "tag": "prox-2"
@@ -156,7 +156,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.96.1",
+            "address": "104.21.48.1",
             "port": 443,
             "users": [
               {
@@ -179,7 +179,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/MghlOvQWTtr33ZMN?ed=2560"
+          "path": "/TemDtLigkAvUXuJ8?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -188,7 +188,7 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "brOaD-FoREST-7B44.Dl3-tABRIZUAcBLOGIr.woRkeRS.dEv"
+          "serverName": "bRoAD-foReSt-7b44.Dl3-tabRIzuacblOgIR.WorkeRs.dev"
         }
       },
       "tag": "prox-3"
@@ -221,7 +221,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/KTg59AGzCKq3EjSG?ed=2560"
+          "path": "/usvqXlCnwb8EFrz5?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -230,52 +230,10 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "bROad-FOrEst-7b44.dl3-TAbrIZuAcBlOGir.wOrkers.dEv"
+          "serverName": "BrOAd-foREst-7B44.DL3-tABRIZUaCbLOgIr.WOrKERS.Dev"
         }
       },
       "tag": "prox-4"
-    },
-    {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.21.80.1",
-            "port": 443,
-            "users": [
-              {
-                "id": "425d1a59-b802-4a92-8068-ffa59f0bc04a",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "sockopt": {
-          "domainStrategy": "UseIPv4"
-        },
-        "wsSettings": {
-          "host": "broad-forest-7b44.dl3-tabrizuacblogir.workers.dev",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-          },
-          "path": "/3CahIvQxNQt2sIh0?ed=2560"
-        },
-        "tlsSettings": {
-          "allowInsecure": false,
-          "fingerprint": "randomized",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ],
-          "serverName": "BROaD-FOrest-7b44.dl3-tAbrIZuacBLOgiR.WOrkErs.dEV"
-        }
-      },
-      "tag": "prox-5"
     },
     {
       "protocol": "vless",
@@ -305,7 +263,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/sqMCFPwNVj5jT9RH?ed=2560"
+          "path": "/pKKJNXlaJ1GnVV05?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -314,17 +272,17 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "BRoad-FoREST-7b44.Dl3-TAbrIzuACBlOGiR.wOrKerS.dEV"
+          "serverName": "BrOad-foRest-7B44.Dl3-tAbRIzuACblOGiR.wORkeRS.DEv"
         }
       },
-      "tag": "prox-6"
+      "tag": "prox-5"
     },
     {
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "104.21.48.1",
+            "address": "104.21.80.1",
             "port": 443,
             "users": [
               {
@@ -347,7 +305,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/O9qAYrRQazZbanUp?ed=2560"
+          "path": "/AcQWhHVpdC5zitSq?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -356,10 +314,10 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "bROAd-FOreSt-7b44.DL3-tABrizUaCBlogIr.WorkeRs.DEV"
+          "serverName": "bROAD-Forest-7b44.dL3-tAbrizUAcBLogir.WoRkErs.dEV"
         }
       },
-      "tag": "prox-7"
+      "tag": "prox-6"
     },
     {
       "protocol": "vless",
@@ -389,7 +347,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/Zf9GJKpX4JQeq7D3?ed=2560"
+          "path": "/pYM53goH43CEhiOs?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -398,10 +356,10 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "BRoAD-ForeST-7B44.DL3-TABrIZuacbLOgiR.WORKerS.DeV"
+          "serverName": "BrOad-ForeSt-7b44.DL3-TABRIzuacBlOGir.WoRKerS.deV"
         }
       },
-      "tag": "prox-8"
+      "tag": "prox-7"
     },
     {
       "protocol": "vless",
@@ -431,7 +389,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/Xkw3f9I4DINUIBTA?ed=2560"
+          "path": "/2SjNHrbcVThw73DK?ed=2560"
         },
         "tlsSettings": {
           "allowInsecure": false,
@@ -440,7 +398,49 @@
             "h2",
             "http/1.1"
           ],
-          "serverName": "BroAd-foREST-7b44.Dl3-tAbRIzuacBlogiR.wORKers.DEv"
+          "serverName": "brOAd-FOrest-7b44.Dl3-taBRiZuaCblOgiR.worKeRs.Dev"
+        }
+      },
+      "tag": "prox-8"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.96.1",
+            "port": 443,
+            "users": [
+              {
+                "id": "425d1a59-b802-4a92-8068-ffa59f0bc04a",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "domainStrategy": "UseIPv4"
+        },
+        "wsSettings": {
+          "host": "broad-forest-7b44.dl3-tabrizuacblogir.workers.dev",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+          },
+          "path": "/VbYFCvFi0c5SSKIQ?ed=2560"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "fingerprint": "randomized",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "serverName": "BroAd-fOreST-7B44.dl3-tABrizUacbLoGIr.wOrkeRs.dEV"
         }
       },
       "tag": "prox-9"
@@ -473,7 +473,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/GgMoFVIjFDR9KdFy?ed=2560"
+          "path": "/tRwTmohbNv2Rg03t?ed=2560"
         }
       },
       "tag": "prox-10"
@@ -506,7 +506,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/ArtNQGRoQzd0zwXI?ed=2560"
+          "path": "/8Q9fezqMwxWp99gN?ed=2560"
         }
       },
       "tag": "prox-11"
@@ -516,7 +516,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.96.1",
+            "address": "104.21.48.1",
             "port": 80,
             "users": [
               {
@@ -539,7 +539,7 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/3yWT5YHIVraV8CJJ?ed=2560"
+          "path": "/OOwTUI66UsWt59Yb?ed=2560"
         }
       },
       "tag": "prox-12"
@@ -572,43 +572,10 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/i1llUKkg8I0Kj6IH?ed=2560"
+          "path": "/Rl3iSlnaLabGpdKc?ed=2560"
         }
       },
       "tag": "prox-13"
-    },
-    {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.21.80.1",
-            "port": 80,
-            "users": [
-              {
-                "id": "425d1a59-b802-4a92-8068-ffa59f0bc04a",
-                "encryption": "none",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "none",
-        "sockopt": {
-          "domainStrategy": "UseIPv4"
-        },
-        "wsSettings": {
-          "host": "broad-forest-7b44.dl3-tabrizuacblogir.workers.dev",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-          },
-          "path": "/kgxzqwhnMydT84WD?ed=2560"
-        }
-      },
-      "tag": "prox-14"
     },
     {
       "protocol": "vless",
@@ -638,17 +605,17 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/4JoLwYnJAfxZESrN?ed=2560"
+          "path": "/KgxGJCAxhyW0Fzyc?ed=2560"
         }
       },
-      "tag": "prox-15"
+      "tag": "prox-14"
     },
     {
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "104.21.48.1",
+            "address": "104.21.80.1",
             "port": 80,
             "users": [
               {
@@ -671,10 +638,10 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/QP30TeAQwocIQntN?ed=2560"
+          "path": "/Gm4XyRPbQqGmEfXV?ed=2560"
         }
       },
-      "tag": "prox-16"
+      "tag": "prox-15"
     },
     {
       "protocol": "vless",
@@ -704,10 +671,10 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/tOxgZqBvFdYyi9Vx?ed=2560"
+          "path": "/atilfcOrrVobM00w?ed=2560"
         }
       },
-      "tag": "prox-17"
+      "tag": "prox-16"
     },
     {
       "protocol": "vless",
@@ -737,7 +704,40 @@
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
           },
-          "path": "/6QvbLhHRwgmK7C1W?ed=2560"
+          "path": "/dpmBLCwGKxPhf8v5?ed=2560"
+        }
+      },
+      "tag": "prox-17"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.96.1",
+            "port": 80,
+            "users": [
+              {
+                "id": "425d1a59-b802-4a92-8068-ffa59f0bc04a",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "sockopt": {
+          "domainStrategy": "UseIPv4"
+        },
+        "wsSettings": {
+          "host": "broad-forest-7b44.dl3-tabrizuacblogir.workers.dev",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+          },
+          "path": "/8nnW7GBWgLwDrHL5?ed=2560"
         }
       },
       "tag": "prox-18"
