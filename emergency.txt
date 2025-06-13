@@ -4,3 +4,4 @@ vless://5642fcce-4093-40c9-95ea-73a734366b03@python.org:80?encryption=none&secur
 vless://5642fcce-4093-40c9-95ea-73a734366b03@151.101.2.219:80?encryption=none&security=none&type=xhttp&host=irandelsey.ir&path=%2F3VC6kNYB4e2bsv1&mode=auto#%28Fastly%29%20http%20xhttp%20CDN%20vless
 vless://5642fcce-4093-40c9-95ea-73a734366b03@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=irandelsey.ir&path=%2F3VC6kNYB4e2bsv1&mode=auto#%28Fastly%29%20http%20xhttp%20CDN%20vless
 vless://5642fcce-4093-40c9-95ea-73a734366b03@157.52.67.255:80?encryption=none&security=none&type=xhttp&host=irandelsey.ir&path=%2F3VC6kNYB4e2bsv1&mode=auto#%28Fastly%29%20http%20xhttp%20CDN%20vless
+vless://71d6e55d-fd25-40e3-ad19-01a4430e6551@91.193.59.245:443?encryption=none&security=tls&type=ws&host=cfcdn.shuntarochishiya.ir&path=%2F58060%2F7o2LTbGdByjmZMNU6GL3Tz3gu#%28CloudFlare%29%20tls_h2%20WS%20CDN%20vless
